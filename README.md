@@ -40,8 +40,8 @@ An inspiration for us was the discussion with David about his role as a Paramedi
 
 # Contributons
 
-This site is part of our personal portfolios and as such direct contributions to the project other than its authors are not accepted an this time.  If you have any suggestions pleaae direct them to me via email (michaelrwrobel@sbcglobal.net) and I will pass it on for consideration by the team.
+This site is part of our personal portfolios and as such direct contributions to the project other than its authors are not accepted an this time.  If you have any suggestions please direct them to me via email (michaelrwrobel@sbcglobal.net) and I will pass it on for consideration by the team.
 
------
+---------------------------------------------------------------------------------------------------------------------------------------
 
 Note: This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
